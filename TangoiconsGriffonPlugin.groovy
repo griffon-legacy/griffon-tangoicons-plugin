@@ -62,7 +62,9 @@ The following nodes will become available on a View script upon installing this 
 |           | category   | String | `actions`   | no         |
 
 Valid values for `icon` can be obtained by running **tango-icon-selector** and inspecting the tooltip of the chosen icon.
+
 Valid values for `size` property are: 16, 22, 32.
+
 Valid values for `category` property are: actions, apps, categories, devices, emblems, emotes, mimetypes, places, status.
 
 Scripts
